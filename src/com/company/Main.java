@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         System.out.println(»Ihren Namen hier schreiben«);
 
+        System.out.println("This is another test.");
+
     }
 }
